@@ -1,0 +1,4 @@
+# エディタ（Ruby LSP）が使う RuboCop 設定。
+# 判定の正本は教材リポの .rubocop.yml で、ここはそれを継承するだけ。
+# bin/check は --config で教材リポの設定を明示的に渡すため、このファイルの影響を受けない。
+inherit_from: ../ruby-core-materials/.rubocop.yml
