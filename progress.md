@@ -28,6 +28,7 @@
 |---|---|---|---|
 | rb1-01-tooling | 完了 | 2026-09-12 |  |
 | rb1-02-twenty-minutes | 完了 | 2026-09-15 | [why.md](rb1-02-twenty-minutes/why.md) |
+| rb1-03-testing-basics | 完了 | 2026-09-16 | [why.md](rb1-03-testing-basics/why.md) |
 
 <!-- bin/check:table end -->
 
